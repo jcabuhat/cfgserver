@@ -11,3 +11,9 @@ security:
   user:
     name: cfguser
     password: cfgpass
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://euruser:eurpass@eurekasvr-jcabuhat.cfapps.io/eureka
+
