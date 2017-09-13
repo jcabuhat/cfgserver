@@ -6,12 +6,12 @@ app_name: cfgserver
 jar_name: jcabuhat-cfgserver
 
 # https url of your company app github fork.  ex: https://github.com/spgreenberg/company-initial.git
-github_app_repo_uri: https://github.com/jcabuhat/cfgserver.git
+github_app_repo_uri: https://github.com/jcabuhat/cfgserver
 # don't change
 github_app_repo_branch: master
 
 # https url of your training-pipelines-initial fork.  ex: https://github.com/spgreenberg/training-pipelines-initial.git
-github_pipelines_repo_uri: https://github.com/jcabuhat/training-pipelines-initial.git
+github_pipelines_repo_uri: https://github.com/jcabuhat/training-pipelines-initial
 # don't change
 github_pipelines_repo_branch: master
 
