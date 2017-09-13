@@ -1,0 +1,11 @@
+--- 
+applications: 
+  - 
+    buildpack: java_buildpack
+    disk_quota: 1024M
+    instances: 1
+    memory: 750M
+    name: roster
+    path: build/libs/cfgserver.jar
+    services: 
+      - myconfigrepo
